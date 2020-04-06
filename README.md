@@ -36,7 +36,7 @@ We are also more than happy to receive pull requests if you would like to contri
 
 * **Karen Hodgson** - on [twitter](https://twitter.com/KarenHodgePodge) or [GitHub](https://github.com/KarenHodgson)
 
-See also the list of [contributors](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/HFAnalyticsLab/COVID19_Resources/graphs/contributors) who participated in this project.
 
 ## License
 *This project is licensed under the [CC-BY Licence](LINK) - TBC*
