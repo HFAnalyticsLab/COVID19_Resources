@@ -42,4 +42,4 @@ You can always reach out via email at [covid.analytics@health.org.uk](mailto:cov
 See also the list of [contributors](https://github.com/HFAnalyticsLab/COVID19_Resources/graphs/contributors) who participated in this project.
 
 ## License
-This project is licensed under the [CC-BY 4.0 Licence](https://github.com/HFAnalyticsLab/COVID19_Resources/LICENCE)
+This project is licensed under the [CC-BY 4.0 Licence](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/LICENCE)
