@@ -31,8 +31,15 @@ Health Data Research UK; the national institute for health data science
 ### [NHSE/I Virtual Challenge Huddles](https://future.nhs.uk/)
 #### Format and topic of the event
 To discuss COVID-19 data and analytics activity at a national and local level. These huddles will provide an opportunity to share, discuss best practice, build networks and ask questions.
-Details and video can be found on the [FutureNHS platform](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19158800), log in required. 
+Deatils of the analytical huddles can be found on the [FutureNHS platform](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=18976912), log in required. 
+[Modelling Huddle 3 April 2020](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
 #### Who organised the event
 NHS England and Improvement 
+
+### [NHS-R Covid-19 Modelling Webinar](https://www.eventbrite.co.uk/e/nhs-r-covid-19-modelling-webinar-tickets-101892362800)
+#### Format and topic of the event
+Covid-19 modelling webinar; Richard Wood will host on Wednesday 8th April from 1:30-2:30pm. Walk-through of the [covid-simr tool]( https://github.com/nhs-bnssg-analytics/covid-simr) from BNSSG Modelling and Analytics. 
+#### Who organised the event
+[NHS-R community](https://twitter.com/NHSrCommunity)
 
 
