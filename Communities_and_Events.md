@@ -22,7 +22,7 @@ Led by the Improvement Academy & University of Bradford, with support from the H
 
 ### [HDR-UK: COVID-19](https://www.hdruk.ac.uk/covid-19/)
 #### What the resource does
-Working to prioritise health data research that addresses front-line needs  Find out more, including their [matchmaker database](https://docs.google.com/spreadsheets/d/1Kr17P_Lsoh-9dGUlxzdxXPAEKdaZB39DpF9Eqqp8ehg/edit?usp=sharing) for sharing experience and expertise via their website. 
+Working to prioritise health data research that addresses front-line needs  Find out more, including their [matchmaker database](https://docs.google.com/spreadsheets/d/1Kr17P_Lsoh-9dGUlxzdxXPAEKdaZB39DpF9Eqqp8ehg/edit?usp=sharing) for sharing experience and expertise via their [website](https://www.hdruk.ac.uk/covid-19/). 
 #### Who developed the resource
 Health Data Research UK; the national institute for health data science
 
