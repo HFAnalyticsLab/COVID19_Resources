@@ -1,7 +1,7 @@
 ## Documentation for the repository of resources to support analysts in responding to COVID-19 
 This is the documentation for a repository collecting together links to practical resources, including tools and code for analysts working to support health and care during the COVID-19 pandemic. 
 
-To see the resources we have currently gathered together, please see [Repository_of_Resources.md](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md). We also have a [list](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md) of analytical communities and events that may be useful. 
+To see the resources we have currently gathered together, please see [Repository_of_Resources.md](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md). We also have a list of [analytical communities and online events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md) that may be useful. 
 
 #### Project Status: [Ongoing]
 
