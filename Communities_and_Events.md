@@ -3,8 +3,8 @@
 Below are a collection of analytical communities and events which may be helpful for analysts working to support health and care during the COVID-19 pandemic.
 
 ## Contents
-* [Analytical communities](https://github.com/KarenHodgson/Trial_COVID_Repo/blob/master/Communities_and_Events.md#analytical-communities)
-* [Events](https://github.com/KarenHodgson/Trial_COVID_Repo/blob/master/Communities_and_Events.md#events)
+* [Analytical communities](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md#analytical-communities)
+* [Events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md#events)
 
 ## Analytical communities
 
