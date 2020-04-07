@@ -8,10 +8,10 @@ To see the resources we have currently gathered together, please see [Repository
 ## Contents
 * [Scope of the repository](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#scope-of-the-repository)
 * [Getting involved](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#getting-involved)
-* [Using GitHub to get involved](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#email-us-to-get-involved)
-* [Email us to get involved](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#email-us-to-get-involved)
+  * [Using GitHub to get involved](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#using-github-to-get-involved)
+  * [Email us to get involved](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#email-us-to-get-involved)
 * [Authors](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#authors)
-* [License](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/LICENSE)
+* [License](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/LICENSE.md)
 
 ## Scope of the repository
 This repository is intended support health and care analysts with resources (including tools and code) that may be helpful in their work during the COVID-19 pandemic. To help analysts navigate the rapidly evolving landscape, we prioritise the inclusion of resources that can directly help with planning and decision-making. Our primary intended audience is analysts working in the public and voluntary sectors, across the UK. 
@@ -24,7 +24,7 @@ We are encouraging everyone to be involved, your contributions will make the rep
 We welcome suggestions for resources that could be added to the repository, so if you have come across something that was useful, or have developed something you would like to share, please let us know. As we try to identify the most useful tools to include, it would also be really helpful to hear from you if you are searching for a tool to solve a particular problem, but haven't managed to find it yet.  
 
 ### Using GitHub to get involved
-If you would like to contribute via GitHub, you will need a GitHub account. If you don't already have one, you can [sign up for free](github.com). Once that is done, you can file an issue or submit a pull request if there is something you would like to add or change on the repository. 
+If you would like to contribute via GitHub, you will need a GitHub account. If you don't already have one, you can [sign up for free](https://github.com). Once that is done, you can file an issue or submit a pull request if there is something you would like to add or change on the repository. 
 
 #### Filing an issue
 If you would like to report a bug in the repository (eg a broken link), or suggest a resource for inclusion, please file an issue. Github has some [guidance](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this if it is your first time filing an issue. If you are suggesting a resource for inclusion, please include the link for the resource, a brief summary of what it does and the name and organisation of the creator. 
