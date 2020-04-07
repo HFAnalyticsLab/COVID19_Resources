@@ -2,9 +2,9 @@
 This is a repository collecting together links to practical resources for analysts working to support health and care during the COVID-19 pandemic.
 
 ## Contents
-* [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Tools_And_Code.md#modelling-projections)
-* [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Tools_And_Code.md#identifying-vulnerable-groups)
-* [Analytical communities](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Tools_And_Code.md#analytical-communities)
+* [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
+* [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
+* [Analytical communities](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#analytical-communities)
 
 ## Modelling projections
 
