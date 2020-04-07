@@ -8,10 +8,16 @@ This is a repository collecting together links to practical resources for analys
 
 ## Modelling projections
 
-### [covid19-reqd-beds-projection](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection) 
+### [Bed projections: covid19-reqd-beds-projection](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection) 
 #### What the resource does
 "Simple script to generate a projection of beds required to support given trajectory of covid19 cases requiring hospitalisation."
 Takes inputs on expected hospitalisations and length of stay, to output capacity requirement projections.
+#### Who developed the resource
+NHS BNSSG Analytics
+
+### [Capacity-dependent death projections: covid-simr](https://github.com/nhs-bnssg-analytics/covid-simr) 
+#### What the resource does
+"Simple script to generate a projection of deaths arising from insufficent acute/ICU capacity for a given trajectory of covid19 cases requiring hospitalisation, and to model the effect of various user-defined mitigating scenarios."
 #### Who developed the resource
 NHS BNSSG Analytics
 
