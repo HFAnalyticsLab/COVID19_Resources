@@ -28,6 +28,13 @@ Discussed in the FutureNHS modelling [huddle](https://future.nhs.uk/DataAnalytic
 #### Who developed the resource
 33N
 
+### [LSTHM CCMID Hospital Bed Occupancy Projections](https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/)
+#### What the resource does
+Webapp to forecast bed occupancy for COVID-19 patients using recent data on admission and an exponential growth model.
+You can choose to model critical or non-critical care beds.
+#### Who developed the resource
+LSTHM CCMID
+
 ## Identifying vulnerable groups
 
 ### [COVID-19 phenomics](https://covid19-phenomics.org/#section-algorithms)
