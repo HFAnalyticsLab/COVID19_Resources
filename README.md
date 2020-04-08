@@ -1,7 +1,7 @@
-## Documentation for the repository of resources to support analysts in responding to COVID-19 
+## Documentation for the repository 
 This is the documentation for a repository collecting together links to practical resources, including tools and code for analysts working to support health and care during the COVID-19 pandemic. 
 
-To see the resources we have currently gathered together, please see [Repository_of_Resources.md](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md). We also have a list of [analytical communities and online events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md) that may be useful. 
+To see the resources, please see [Repository_of_Resources.md](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md). We also have a list of [analytical communities and online events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md) that may be useful. 
 
 #### Project Status: [Ongoing]
 
@@ -14,7 +14,7 @@ To see the resources we have currently gathered together, please see [Repository
 * [License](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/LICENSE.md)
 
 ## Scope of the repository
-This repository is intended support health and care analysts with resources (including tools and code) that may be helpful in their work during the COVID-19 pandemic. To help analysts navigate the rapidly evolving landscape, we prioritise the inclusion of resources that can directly help with planning and decision-making. Our primary intended audience is analysts working in the public and voluntary sectors, across the UK. 
+This repository is intended support health and care analysts with resources that may be helpful in their work during the COVID-19 pandemic. To help analysts navigate the rapidly evolving landscape, we prioritise the inclusion of resources that can directly help with planning and decision-making. Our primary intended audience is analysts working in the public and voluntary sectors, across the UK. 
 
 As always, analysts should also consider whether they have the required expertise to appropriately apply the resources listed here. Inclusion within this repository does not indicate that we endorse the resource, or offer any opinion on its validity or accuracy. Whilst we endeavour to keep this repository up-to-date, please also check that you are accessing the most up-to-date version of any resource - this is particularly important in such a rapidly changing environment. 
 
