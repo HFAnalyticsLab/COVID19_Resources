@@ -16,7 +16,7 @@ To see the resources, please see [Repository_of_Resources.md](https://github.com
 ## Scope of the repository
 This repository is intended support health and care analysts with resources that may be helpful in their work during the COVID-19 pandemic. To help analysts navigate the rapidly evolving landscape, we prioritise the inclusion of resources that can directly help with planning and decision-making. Our primary intended audience is analysts working in the public and voluntary sectors, across the UK. 
 
-As always, analysts should also consider whether they have the required expertise to appropriately apply the resources listed here. Inclusion within this repository does not indicate that The Health Foundation endorses the resource, or offers any opinion on its validity or accuracy. Whilst we endeavour to keep this repository up-to-date, please also check that you are accessing the most up-to-date version of any resource - this is particularly important in such a rapidly changing environment. 
+As always, analysts should also consider whether they have the required expertise to appropriately apply the resources listed here. Inclusion within this repository does not indicate that the Health Foundation endorses the resource, or offers any opinion on its validity or accuracy. Whilst we endeavour to keep this repository up-to-date, please also check that you are accessing the most up-to-date version of any resource - this is particularly important in such a rapidly changing environment. 
 
 ## Getting involved
 We are encouraging everyone to be involved, your contributions will make the repository as useful as possible.
