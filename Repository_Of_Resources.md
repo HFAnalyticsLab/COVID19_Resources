@@ -4,7 +4,7 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
-* [Processing data]((https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
+* [Processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
 
 ## Modelling projections
 
