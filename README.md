@@ -21,7 +21,7 @@ During the ongoing COVID-19 pandemic analysts in the health and care system have
 As always, analysts need to consider whether they have the expertise required to the resources listed here in an appropriate way. Inclusion within this repository does not indicate that the Health Foundation endorses the resource, or offers any opinion on its validity or accuracy. While we endeavour to keep this repository up-to-date, please also check that you are accessing the most recent version of any resource - this is particularly important in such a rapidly changing environment. 
 
 ## Getting involved
-We welcome involvement and contributions of any kind - your contributions will make the repository as useful as possible.
+We welcome involvement and contributions from the analytical community - your contributions will make the repository as useful as possible.
 
 We encourage suggestions for resources that could be added to the repository. If you come across something that was useful in your own work, or have developed something you would like to share, please let us know. As we try to identify the most relevant resources for the community, it would be helpful to hear from anyone searching for a particular tool or trying to solve a particular problem, even if they haven't managed to find it yet.  
 
