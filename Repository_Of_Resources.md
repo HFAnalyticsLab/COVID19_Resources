@@ -12,27 +12,27 @@ This is a repository collecting together links to practical resources for analys
 "Simple script to generate a projection of beds required to support given trajectory of covid19 cases requiring hospitalisation."
 Takes inputs on expected hospitalisations and length of stay, to output capacity requirement projections.
 #### Who developed the resource
-NHS BNSSG Analytics
+[NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/)
 
 ### [Capacity-dependent death projections: covid-simr](https://github.com/nhs-bnssg-analytics/covid-simr) 
 #### What the resource does
 "Simple script to generate a projection of deaths arising from insufficent acute/ICU capacity for a given trajectory of covid19 cases requiring hospitalisation, and to model the effect of various user-defined mitigating scenarios."
 #### Who developed the resource
-NHS BNSSG Analytics
+[NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/)
 
 ### [33N COVID ICU capacity model](https://covid.33n.co.uk/login) 
 #### What the resource does
 A model looking at ICU resource (ventilation, PPE) and workforce planning. Excel and web tools available. 
 Discussed in the FutureNHS modelling [huddle](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216). Must register with 33N for access. 
 #### Who developed the resource
-33N
+[33N](https://www.33n.co.uk/)
 
-### [LSTHM CCMID Hospital Bed Occupancy Projections](https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/)
+### [LSHTM CCMID Hospital Bed Occupancy Projections](https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/)
 #### What the resource does
 Webapp to forecast bed occupancy for COVID-19 patients using recent data on admission and an exponential growth model.
 You can choose to model critical or non-critical care beds.
 #### Who developed the resource
-LSTHM CCMID
+[LSHTM CCMID](https://cmmid.github.io/)
 
 ## Identifying vulnerable groups
 
@@ -52,5 +52,5 @@ Alessandro Gasparini
 #### What the resource does
 Definition and associated code to identify frailty in Admitted Patient Care records in HES. This definition of frailty was used to support Imperial College London in estimating hospital capacity for admissions for COVID pneumonia. 
 #### Who developed the resource
-Fiona Grimm (Health Foundation), with collaborators at Imperial College London
+[Fiona Grimm](https://github.com/fiona-grimm) (Health Foundation), with collaborators at Imperial College London
 
