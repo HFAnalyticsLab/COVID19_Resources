@@ -4,6 +4,7 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
+* [Processing data]((https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
 
 ## Modelling projections
 
@@ -53,4 +54,13 @@ Alessandro Gasparini
 Definition and associated code to identify frailty in Admitted Patient Care records in HES. This definition of frailty was used to support Imperial College London in estimating hospital capacity for admissions for COVID pneumonia. 
 #### Who developed the resource
 [Fiona Grimm](https://github.com/fiona-grimm) (Health Foundation), with collaborators at Imperial College London
+
+
+## Processing data
+
+### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
+#### What the resource does
+This github repository collates the historical UK government data on numbers of tests, confirmed cases, and deaths for COVID-19, and provides it in an easily consumable format (CSV), in both wide and tidy data forms. Includes daily counts of confirmed cases for (upper tier) local authorities in England, health boards in Scotland and Wales, and local government district for Northern Ireland.
+#### Who developed the resource
+[Tom White](https://github.com/tomwhite)
 
