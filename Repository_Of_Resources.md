@@ -41,3 +41,16 @@ LSTHM CCMID
 "A comprehensive, open-access resource providing the research community with information, tools and phenotyping algorithms for defining COVID-19 related phenotypes in UK electronic health records data."
 #### Who developed the resource
 HDR UK COVID-19 Phenomics; Spiros Denaxas [@SpirosDenaxas](https://twitter.com/SpirosDenaxas)
+
+### [Comorbidity package in R](https://cran.r-project.org/web/packages/comorbidity/vignettes/comorbidityscores.html)
+#### What the resource does
+"`Comorbidity` is an R package for computing comorbidity scores based on ICD codes data. As of version 0.1.0, comorbidity can calculate the Charlson comorbidity score and the Elixhauser comorbidity score, using either the ICD-9 or ICD-10 coding system." 
+#### Who developed the resource
+Alessandro Gasparini
+
+### [Imperial frailty index](https://github.com/HFAnalyticsLab/Hospital_admissions_frailty/blob/master/doc/frailty_score.md)
+#### What the resource does
+Definition and associated code to identify frailty in Admitted Patient Care records in HES. This definition of frailty was used to support Imperial College London in estimating hospital capacity for admissions for COVID pneumonia. 
+#### Who developed the resource
+Fiona Grimm (Health Foundation), with collaborators at Imperial College London
+
