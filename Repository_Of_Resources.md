@@ -1,5 +1,5 @@
 # Repository of resources to support COVID-19 response analytics
-This is a repository collecting together links to practical resources for analysts working to support health and care during the COVID-19 pandemic. Inclusion within this repository does not indicate that The Health Foundation endorses the resource, or offers any opinion on its validity or accuracy.
+This is a repository collecting together links to practical resources for analysts working to support health and care during the COVID-19 pandemic. Inclusion within this repository does not indicate that the Health Foundation endorses the resource, or offers any opinion on its validity or accuracy.
 
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
