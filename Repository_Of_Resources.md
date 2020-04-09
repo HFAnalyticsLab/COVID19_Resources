@@ -36,6 +36,11 @@ You can choose to model critical or non-critical care beds.
 [LSHTM CCMID](https://cmmid.github.io/)
 
 ## Identifying vulnerable groups
+### [Shielded patient list - NHS Digital methodology](https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology)
+#### What the resource does
+Documents describing the methodology that has been used to identify patients who meet the high risk criteria for contracting coronavirus (COVID-19), who should be shielded for at least 12 weeks.
+#### Who developed the resource
+NHS Digital
 
 ### [COVID-19 phenomics](https://covid19-phenomics.org/#section-algorithms)
 #### What the resource does
