@@ -21,9 +21,9 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 #### Who organised the event
 NHS England and Improvement 
 
-### [NHS-R Covid-19 Modelling Webinar](https://www.eventbrite.co.uk/e/nhs-r-covid-19-modelling-webinar-tickets-101892362800)
+### [NHS-R Covid-19 Modelling Webinar](https://nhsrcommunity.com/learn-r/workshops/covid-19-modelling-webinar/)
 #### Format and topic of the event
-Covid-19 modelling webinar; Richard Wood will host on **Wednesday 8th April from 1:30-2:30pm**. Walk-through of the [covid-simr tool]( https://github.com/nhs-bnssg-analytics/covid-simr) from BNSSG Modelling and Analytics. 
+Covid-19 modelling webinar; recording of Richard Wood's presentation from Wednesday 8th April 2020. Walk-through of the [covid-simr tool]( https://github.com/nhs-bnssg-analytics/covid-simr) from BNSSG Modelling and Analytics. 
 #### Who organised the event
 [NHS-R community](https://twitter.com/NHSrCommunity)
 
