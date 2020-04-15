@@ -5,6 +5,7 @@ This is a repository collecting together links to practical resources for analys
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
 * [Processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
+* [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
 
 ## Modelling projections
 
@@ -68,4 +69,14 @@ Definition and associated code to identify frailty in Admitted Patient Care reco
 This github repository collates the historical UK government data on numbers of tests, confirmed cases, and deaths for COVID-19, and provides it in an easily consumable format (CSV), in both wide and tidy data forms. Includes daily counts of confirmed cases for (upper tier) local authorities in England, health boards in Scotland and Wales, and local government district for Northern Ireland.
 #### Who developed the resource
 [Tom White](https://github.com/tomwhite)
+
+## Dashboards
+
+### [NHS COVID-19 Situation Operational dashboard](https://improvement.nhs.uk/account/)
+#### What the resource does
+Dashboard based on COVID-19 Daily Sitrep data collection, from acute, mental health and community providers. Must request access, permissions granted by NHSI. 
+#### Who developed the resource
+[NHS](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=18941424)
+
+
 
