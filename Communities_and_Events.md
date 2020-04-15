@@ -17,7 +17,7 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 * [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
 * [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
 ##### Upcoming huddles: registration page:
-... TBC ...
+* [COVID-19 dashboards: Fri 17th April 2020 10:00-11:30 - sign-up link](https://www.eventbrite.co.uk/e/data-and-analytics-virtual-huddle-covid-19-dashboards-tickets-102693926298)
 #### Who organised the event
 NHS England and Improvement 
 
