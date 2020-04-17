@@ -90,5 +90,9 @@ Dashboard based on COVID-19 Daily Sitrep data collection, from acute, mental hea
 #### Who developed the resource
 [NHS](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=18941424)
 
-
+### [Daily confirmed coronavirus cases and deaths in the UK published by Public Health England](https://trafforddatalab.shinyapps.io/covid-19/#section-deaths) 
+#### What the resource does
+Shiny Dashboard showing graphical numbers (linear and logarithmic) of confirmed UK cases, deaths and an international comparison as released from Public Health England and published through European Centre for Disease Prevention and Control.
+#### Who developed the resource
+[Trafford Data Lab](https://github.com/traffordDataLab)
 
