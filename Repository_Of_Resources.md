@@ -96,3 +96,8 @@ Shiny Dashboard showing graphical numbers (linear and logarithmic) of confirmed 
 #### Who developed the resource
 [Trafford Data Lab](https://github.com/traffordDataLab)
 
+### [Weekly Deaths: England and Wales](https://ukpublichealthdata.shinyapps.io/weekly_deaths/) 
+#### What the resource does
+Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) plotted with forecasting from the Prophet R package.
+#### Who developed the resource
+Ian Bowns
