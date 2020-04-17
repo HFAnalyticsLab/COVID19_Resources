@@ -70,6 +70,12 @@ This github repository collates the historical UK government data on numbers of 
 #### Who developed the resource
 [Tom White](https://github.com/tomwhite)
 
+### [Weekly provisional coronavirus (COVID-19) figures 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/11589weeklyprovisionalcoronaviruscovid19figuresbylocalresilienceforumenglandandwales2020) 
+#### What the resource does
+Numbers of weekly deaths (provisional) by age groups, region and usual residence (counties)
+#### Who developed the resource
+Office of National Statistics
+
 ## Dashboards
 
 ### [NHS COVID-19 Situation Operational dashboard](https://improvement.nhs.uk/account/)
