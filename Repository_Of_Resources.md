@@ -70,6 +70,18 @@ This github repository collates the historical UK government data on numbers of 
 #### Who developed the resource
 [Tom White](https://github.com/tomwhite)
 
+### [Weekly provisional coronavirus (COVID-19) figures 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/11589weeklyprovisionalcoronaviruscovid19figuresbylocalresilienceforumenglandandwales2020) 
+#### What the resource does
+Numbers of weekly deaths (provisional) by age groups, region and usual residence (counties)
+#### Who developed the resource
+Office of National Statistics
+
+### [Weekly provisional Deaths](https://github.com/Lextuga007/NHSRdatasets/blob/ONSMortality/Working%20files/ONSMortality.csv) 
+#### What the resource does
+Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/nhs-r-community/NHSRdatasets/blob/master/data/ONSMortality.RData).
+#### Who developed the resource
+[Zoë Turner](https://github.com/Lextuga007)
+
 ## Dashboards
 
 ### [NHS COVID-19 Situation Operational dashboard](https://improvement.nhs.uk/account/)
@@ -78,5 +90,14 @@ Dashboard based on COVID-19 Daily Sitrep data collection, from acute, mental hea
 #### Who developed the resource
 [NHS](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=18941424)
 
+### [Daily confirmed coronavirus cases and deaths in the UK published by Public Health England](https://trafforddatalab.shinyapps.io/covid-19/#section-deaths) 
+#### What the resource does
+Shiny Dashboard showing graphical numbers (linear and logarithmic) of confirmed UK cases, deaths and an international comparison as released from Public Health England and published through European Centre for Disease Prevention and Control.
+#### Who developed the resource
+[Trafford Data Lab](https://github.com/traffordDataLab)
 
-
+### [Weekly Deaths: England and Wales](https://ukpublichealthdata.shinyapps.io/weekly_deaths/) 
+#### What the resource does
+Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) plotted with forecasting from the Prophet R package.
+#### Who developed the resource
+Ian Bowns
