@@ -16,8 +16,9 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 ##### Previous huddles: recording and resources:
 * [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
 * [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
+* [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
 ##### Upcoming huddles: registration page:
-* [COVID-19 dashboards: Fri 17th April 2020 10:00-11:30 - sign-up link](https://www.eventbrite.co.uk/e/data-and-analytics-virtual-huddle-covid-19-dashboards-tickets-102693926298)
+* [Whole systems modelling: Thu 23rd April 2020, 14:00–16:00 BST - sign-up link](https://www.eventbrite.co.uk/e/data-and-analytics-covid-19-virtual-huddle-whole-systems-modelling-tickets-102966391248)
 #### Who organised the event
 NHS England and Improvement 
 
@@ -32,7 +33,7 @@ Covid-19 modelling webinar; recording of Richard Wood's presentation from Wednes
 
 ### [FutureNHS Collaboration Platform](https://future.nhs.uk/)
 #### What the resource does
-Collaborative platform for those working in health and social care. There are a number of COVID-19-specific workspaces, including one focused on (COVID-19 data and analytics)[https://future.nhs.uk/DataAnalyticsCovid19/grouphome]. Offers of support as well as discussion boards. 
+Collaborative platform for those working in health and social care. There are a number of COVID-19-specific workspaces, including one focused on [COVID-19 data and analytics](https://future.nhs.uk/DataAnalyticsCovid19/grouphome). Discussion boards, webinar materials, and offers of support on the [Analytics Market Exchange](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=18976656).
 #### Who developed the resource
 NHS England and Improvement
 
