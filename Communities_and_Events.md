@@ -28,6 +28,12 @@ Covid-19 modelling webinar; recording of Richard Wood's presentation from Wednes
 #### Who organised the event
 [NHS-R community](https://twitter.com/NHSrCommunity)
 
+### [Collaborative analytics in health and care](https://www.eventbrite.co.uk/e/webinar-collaborative-analytics-in-health-and-care-tickets-102252475908)
+#### Format and topic of the event
+**Tues 28 April, 13:00-14:00 BST**  
+"For anyone interested in advancing health analytics. An open conversation to review and further build our open collective knowledge base. We will scan local, national and international projects and organisations and delve into reported best practice in working with online software tools and data resources. We will cover broad analytics resources and touch on analytics relating to Covid19."  
+#### Who organised the event
+Bristol Health Partners
 
 ## Analytical communities
 
