@@ -4,7 +4,7 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
-* [Processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
+* [Accessing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-data)
 * [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
 
 ## Modelling projections
@@ -62,7 +62,7 @@ Definition and associated code to identify frailty in Admitted Patient Care reco
 [Fiona Grimm](https://github.com/fiona-grimm) (Health Foundation), with collaborators at Imperial College London
 
 
-## Processing data
+## Accessing data
 
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 #### What the resource does
@@ -81,6 +81,12 @@ Office of National Statistics
 Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/nhs-r-community/NHSRdatasets/blob/master/data/ONSMortality.RData).
 #### Who developed the resource
 [Zoë Turner](https://github.com/Lextuga007)
+
+### [ODI support for sharing data](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch?mc_cid=777c5ce2dd&mc_eid=c43dc921e5) 
+#### What the resource does
+The Open Data Institute (ODI) is running a programme of free support to people and organisations who have data, models or software they think could help the world to navigate the pandemic. This might be from public authorities, researchers, developers, companies or charities. 
+#### Who developed the resource
+[ODI](https://twitter.com/ODIHQ)
 
 ## Dashboards
 
@@ -101,3 +107,5 @@ Shiny Dashboard showing graphical numbers (linear and logarithmic) of confirmed 
 Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) plotted with forecasting from the Prophet R package.
 #### Who developed the resource
 Ian Bowns
+
+
