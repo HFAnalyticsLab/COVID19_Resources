@@ -35,6 +35,15 @@ Covid-19 modelling webinar; recording of Richard Wood's presentation from Wednes
 #### Who organised the event
 Bristol Health Partners
 
+### [#OpenDataSavesLives COVID-19](https://odileeds.org/projects/open-data-saves-lives/covid19/)
+#### Format and topic of the event 
+An weekly/semi-regular session to work out how we can get a local perspective and impact of the COVID-19 / coronavirus outbreak. The meeting serves to connect with new people, share work, get project updates, and more. 
+##### Next upcoming session: [Thurs 30 April, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
+##### [Previous session recordings available](https://odileeds.org/projects/open-data-saves-lives/covid19/)
+#### Who organised the event
+ODI Leeds
+
+
 ## Analytical communities
 
 ### [FutureNHS Collaboration Platform](https://future.nhs.uk/)
