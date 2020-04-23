@@ -36,6 +36,12 @@ You can choose to model critical or non-critical care beds.
 #### Who developed the resource
 [LSHTM CCMID](https://cmmid.github.io/)
 
+### [J-IDEA hospital planner](http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-15-hospital-capacity/)
+#### What the resource does
+Hospital planning tool to calculate how much capacity in terms of beds, staff and ventilators is obtained by implementing healthcare provision interventions affecting the management of patient care in hospitals. The planner estimates the additional number of beds, medical staff and crucial medical equipment obtained under various healthcare interventions using flexible inputs on assumptions of existing capacities, the number of hospitalisations, beds-to-staff ratios, and staff absences due to COVID-19. 
+#### Who developed the resource
+[Imperial College COVID-19 Response Team]
+
 ## Identifying vulnerable groups
 ### [Shielded patient list - NHS Digital methodology](https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology)
 #### What the resource does
