@@ -43,6 +43,12 @@ Documents describing the methodology that has been used to identify patients who
 #### Who developed the resource
 NHS Digital
 
+### [British Red Cross COVID-19 vulnerability index for the UK](https://github.com/britishredcrosssociety/covid-19-vulnerability)
+#### What the resource does
+This index combines multiple sources of (mostly) open data to identify vulnerable areas and groups within Local Authorities and neighbourhoods (wards and Middle Layer Super Output Areas). The Index currently maps clinical vulnerability (underlying health conditions), health/wellbeing vulnerability (including mental health and loneliness), economic vulnerability, and social vulnerability (including barriers to housing and services, poor living environment).
+#### Who developed the resource
+Matt Thomas and Ellen Gordon at the British Red Cross.
+
 ### [COVID-19 phenomics](https://covid19-phenomics.org/#section-algorithms)
 #### What the resource does
 "A comprehensive, open-access resource providing the research community with information, tools and phenotyping algorithms for defining COVID-19 related phenotypes in UK electronic health records data."
@@ -63,7 +69,6 @@ Definition and associated code to identify frailty in Admitted Patient Care reco
 
 
 ## Accessing data
-
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 #### What the resource does
 This github repository collates the historical UK government data on numbers of tests, confirmed cases, and deaths for COVID-19, and provides it in an easily consumable format (CSV), in both wide and tidy data forms. Includes daily counts of confirmed cases for (upper tier) local authorities in England, health boards in Scotland and Wales, and local government district for Northern Ireland.
