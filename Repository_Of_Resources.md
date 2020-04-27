@@ -87,9 +87,9 @@ Numbers of weekly deaths (provisional) by age groups, region and usual residence
 #### Who developed the resource
 Office of National Statistics
 
-### [Weekly provisional Deaths](https://github.com/Lextuga007/NHSRdatasets/blob/ONSMortality/Working%20files/ONSMortality.csv) 
+### [Weekly provisional Deaths](https://github.com/Lextuga007/NHSRdatasets/tree/ONSMortality/Working%20files) 
 #### What the resource does
-Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/nhs-r-community/NHSRdatasets/blob/master/data/ONSMortality.RData).
+Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/Lextuga007/NHSRdatasets/blob/ONSMortality/Working%20files/ons_mortality.rda).
 #### Who developed the resource
 [Zoë Turner](https://github.com/Lextuga007)
 
