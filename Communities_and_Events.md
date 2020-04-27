@@ -17,8 +17,9 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 * [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
 * [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
 * [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
+* [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
 ##### Upcoming huddles: registration page:
-* [Whole systems modelling: Thu 23rd April 2020, 14:00–16:00 BST - sign-up link](https://www.eventbrite.co.uk/e/data-and-analytics-covid-19-virtual-huddle-whole-systems-modelling-tickets-102966391248)
+* [Health Inequalities: Thu 30th April 2020 - 14:00-16:00 BST](https://www.eventbrite.co.uk/e/tackling-health-inequalities-during-covid-19-tickets-103501862858)
 #### Who organised the event
 NHS England and Improvement 
 
