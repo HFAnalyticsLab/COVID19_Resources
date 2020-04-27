@@ -4,7 +4,7 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
-* [Accessing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-data)
+* [Accessing and processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-and-processing-data)
 * [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
 
 ## Modelling projections
@@ -71,10 +71,10 @@ Alessandro Gasparini
 #### What the resource does
 Definition and associated code to identify frailty in Admitted Patient Care records in HES. This definition of frailty was used to support Imperial College London in estimating hospital capacity for admissions for COVID pneumonia. 
 #### Who developed the resource
-[Fiona Grimm](https://github.com/fiona-grimm) (Health Foundation), with collaborators at Imperial College London
+[Fiona Grimm](https://github.com/fiona-grimm) (The Health Foundation), with collaborators at Imperial College London
 
 
-## Accessing data
+## Accessing and processing data
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 #### What the resource does
 This github repository collates the historical UK government data on numbers of tests, confirmed cases, and deaths for COVID-19, and provides it in an easily consumable format (CSV), in both wide and tidy data forms. Includes daily counts of confirmed cases for (upper tier) local authorities in England, health boards in Scotland and Wales, and local government district for Northern Ireland.
@@ -99,6 +99,12 @@ The Open Data Institute (ODI) is running a programme of free support to people a
 #### Who developed the resource
 [ODI](https://twitter.com/ODIHQ)
 
+### [NHS Pathways and 111 online data](https://github.com/HFAnalyticsLab/COVID19_NHS111) 
+#### What the resource does
+Scripts for a descriptive analysis of trends in NHS 111 activity related to COVID-19, creating daily counts for England, in total and by gender and age band.
+#### Who developed the resource
+[Emma Vestesson](https://twitter.com/gummifot) (The Health Foundation)
+
 ## Dashboards
 
 ### [NHS COVID-19 Situation Operational dashboard](https://improvement.nhs.uk/account/)
@@ -106,6 +112,12 @@ The Open Data Institute (ODI) is running a programme of free support to people a
 Dashboard based on COVID-19 Daily Sitrep data collection, from acute, mental health and community providers. Must request access, permissions granted by NHSI. 
 #### Who developed the resource
 [NHS](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=18941424)
+
+### [NHS pathways and 111 online dashboard](https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online) 
+#### What the resource does
+NHS Digital dashboard on potential COVID symptoms reported via NHS Pathways and 111 online.
+#### Who developed the resource
+NHS Digital
 
 ### [Daily confirmed coronavirus cases and deaths in the UK published by Public Health England](https://trafforddatalab.shinyapps.io/covid-19/#section-deaths) 
 #### What the resource does
