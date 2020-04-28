@@ -105,6 +105,16 @@ Scripts for a descriptive analysis of trends in NHS 111 activity related to COVI
 #### Who developed the resource
 [Emma Vestesson](https://twitter.com/gummifot) (The Health Foundation)
 
+### [COVID visualisations](https://github.com/VictimOfMaths/COVID-19) 
+#### What the resource does
+Scripts and visualisations using UK COVID data to look at:
+1) Timelines of cases at a Local Authority level in England
+2) All-cause mortality trends across the UK, by age, sex and region
+3) Health deprivation and potential COVID-19 mortality risk at LSOA level across England
+4) COVID cases by deprivation level, using Local Authority daata across England. 
+#### Who developed the resource
+[Colin Angus](https://twitter.com/@VictimOfMaths)
+
 ## Dashboards
 
 ### [NHS COVID-19 Situation Operational dashboard](https://improvement.nhs.uk/account/)
