@@ -9,6 +9,12 @@ This is a repository collecting together links to practical resources for analys
 
 ## Modelling projections
 
+### [Imperial infection model: CovidSim](https://github.com/mrc-ide/covid-sim) 
+#### What the resource does
+GitHub repository of the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London. The lead developers are Neil Ferguson, Gemma Nedjati-Giliani and Daniel Laydon.
+#### Who developed the resource
+MRC Centre for Global Infectious Disease Analysis; Imperial College, London.
+
 ### [Bed projections: covid19-reqd-beds-projection](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection) 
 #### What the resource does
 "Simple script to generate a projection of beds required to support given trajectory of covid19 cases requiring hospitalisation."
