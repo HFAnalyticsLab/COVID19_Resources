@@ -147,4 +147,10 @@ Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/bir
 #### Who developed the resource
 Ian Bowns
 
+## Mapping Tools
+### [SHAPE Strategic Health Asset Planning and Evaluation](https://shapeatlas.net/) 
+#### What the resource does
+Mapping tool for Strategic Health Asset Planning and Evaluation now includes COVID-19 site status on the map, including Hot and Cold status for GP practices. Registration is required by formal registration and licence agreement. It is free for NHS professionals and Local Authority professionals with a role in Public Health or Social Care. 
+#### Who developed the resource
+Public Health England
 
