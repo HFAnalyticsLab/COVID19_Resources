@@ -16,8 +16,10 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 ##### Previous huddles: recording and resources:
 * [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
 * [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
+* [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
+* [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
 ##### Upcoming huddles: registration page:
-* [COVID-19 dashboards: Fri 17th April 2020 10:00-11:30 - sign-up link](https://www.eventbrite.co.uk/e/data-and-analytics-virtual-huddle-covid-19-dashboards-tickets-102693926298)
+* [Health Inequalities: Thu 30th April 2020 - 14:00-16:00 BST](https://www.eventbrite.co.uk/e/tackling-health-inequalities-during-covid-19-tickets-103501862858)
 #### Who organised the event
 NHS England and Improvement 
 
@@ -27,12 +29,27 @@ Covid-19 modelling webinar; recording of Richard Wood's presentation from Wednes
 #### Who organised the event
 [NHS-R community](https://twitter.com/NHSrCommunity)
 
+### [Collaborative analytics in health and care](https://www.eventbrite.co.uk/e/webinar-collaborative-analytics-in-health-and-care-tickets-102252475908)
+#### Format and topic of the event
+**Tues 28 April, 13:00-14:00 BST**  
+"For anyone interested in advancing health analytics. An open conversation to review and further build our open collective knowledge base. We will scan local, national and international projects and organisations and delve into reported best practice in working with online software tools and data resources. We will cover broad analytics resources and touch on analytics relating to Covid19."  
+#### Who organised the event
+Bristol Health Partners
+
+### [#OpenDataSavesLives COVID-19](https://odileeds.org/projects/open-data-saves-lives/covid19/)
+#### Format and topic of the event 
+An weekly/semi-regular session to work out how we can get a local perspective and impact of the COVID-19 / coronavirus outbreak. The meeting serves to connect with new people, share work, get project updates, and more. 
+##### Next upcoming session: [Thurs 30 April, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
+##### [Previous session recordings available](https://odileeds.org/projects/open-data-saves-lives/covid19/)
+#### Who organised the event
+ODI Leeds
+
 
 ## Analytical communities
 
 ### [FutureNHS Collaboration Platform](https://future.nhs.uk/)
 #### What the resource does
-Collaborative platform for those working in health and social care. There are a number of COVID-19-specific workspaces, including one focused on (COVID-19 data and analytics)[https://future.nhs.uk/DataAnalyticsCovid19/grouphome]. Offers of support as well as discussion boards. 
+Collaborative platform for those working in health and social care. There are a number of COVID-19-specific workspaces, including one focused on [COVID-19 data and analytics](https://future.nhs.uk/DataAnalyticsCovid19/grouphome). Discussion boards, webinar materials, and offers of support on the [Analytics Market Exchange](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=18976656).
 #### Who developed the resource
 NHS England and Improvement
 
