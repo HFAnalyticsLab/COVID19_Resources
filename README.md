@@ -18,7 +18,12 @@ The repository is organised into:
 ## Scope 
 During the ongoing COVID-19 pandemic analysts in the health and care system have to navigate a rapidly evolving landscape of analytical tools and resources. To support them in their work, we prioritise resources that can directly help with planning and decision-making. The primary audience for this collection is analysts working in the public and voluntary sectors across the UK. 
 
-As always, analysts need to consider whether they have the expertise required to the resources listed here in an appropriate way. Inclusion within this repository does not indicate that the Health Foundation endorses the resource, or offers any opinion on its validity or accuracy. While we endeavour to keep this repository up-to-date, please also check that you are accessing the most recent version of any resource - this is particularly important in such a rapidly changing environment. 
+As always, analysts need to consider whether they have the expertise required to the resources listed here in an appropriate way. Inclusion within this repository does not indicate that the Health Foundation endorses the resource, or offers any opinion on its validity or accuracy. While we endeavour to keep this repository up-to-date, please also check that you are accessing the most recent version of any resource - this is particularly important in such a rapidly changing environment.
+
+**Resources must have an online location where updates and documentation can be accessed**  
+Analytical resources are updated as more information comes to light and approaches are refined; this means files are likely to go through many iterations. To ensure that analysts can be confident they have access to the most current information regarding a resource, we aim to limit our repository to resources which have a central online location where analysts can check for updates and related documentation. This could be a github repository, an organisational website or a dropbox location. We will not include resources shared via email or posted as standalone files on community platforms. 
+
+If you are uncertain about how to best share your analytical work, you may find our blog outlining [simple ways to make it easier for others to make use of your work](https://towardsdatascience.com/collaboration-in-a-time-of-crisis-9a7f6a61324b) helpful.
 
 ## Getting involved
 We welcome involvement and contributions from the analytical community - your contributions will make the repository as useful as possible.
