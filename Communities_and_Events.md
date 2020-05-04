@@ -18,8 +18,10 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 * [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
 * [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
 * [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
+* [Health Inequalities: Thu 30th April 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectID=20032240)
 ##### Upcoming huddles: registration page:
-* [Health Inequalities: Thu 30th April 2020 - 14:00-16:00 BST](https://www.eventbrite.co.uk/e/tackling-health-inequalities-during-covid-19-tickets-103501862858)
+* [Command Centres: Thurs 7th May 2020 - 14:00 BST](https://www.eventbrite.co.uk/e/covid-19-command-centres-tickets-104020431912)
+* [Mini-huddle on using the PHE SHAPE tool: Wed 6th May 2020 - 15:00 BST](https://www.eventbrite.co.uk/e/using-the-shape-tool-during-covid-19-tickets-104116741978)
 #### Who organised the event
 NHS England and Improvement 
 
