@@ -156,3 +156,14 @@ Mapping tool for Strategic Health Asset Planning and Evaluation now includes COV
 #### Who developed the resource
 Public Health England
 
+### [geo-lookups](https://github.com/drkane/geo-lookups/)
+#### What the resource does
+A GitHub repository with a collection of data resources for handling small-area UK geography.
+#### Who developed the resource
+[David Kane](https://twitter.com/kanedr)
+
+### [Geolytix care home search](https://geolytix.dev/carehomes/view/search)
+#### What the resource does
+Resource for searching for care homes within a location via browser and/or download to a csv.
+#### Who developed the resource
+[Geolytix](https://geolytix.co.uk/)
