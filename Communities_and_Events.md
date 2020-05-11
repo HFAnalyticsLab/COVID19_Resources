@@ -19,9 +19,15 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 * [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
 * [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
 * [Health Inequalities: Thu 30th April 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectID=20032240)
+* [Command Centres: Thurs 7th May 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectId=20158448)
+
+* [Mini-huddle from Ordnance Survey Mapping: 21 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19745040)
+* [Mini-huddle from Herts & West Essex: combining epi and demand modelling: 29 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20001648)
+* [Mini-huddle on using the PHE SHAPE tool: Wed 6th May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20154160)
+
 ##### Upcoming huddles: registration page:
-* [Command Centres: Thurs 7th May 2020 - 14:00 BST](https://www.eventbrite.co.uk/e/covid-19-command-centres-tickets-104020431912)
-* [Mini-huddle on using the PHE SHAPE tool: Wed 6th May 2020 - 15:00 BST](https://www.eventbrite.co.uk/e/using-the-shape-tool-during-covid-19-tickets-104116741978)
+* [Public Perceptions: Fri 15th May 2020 - 11:00 BST](https://www.eventbrite.co.uk/e/public-perception-and-behaviour-during-covid-19-tickets-104518333148)
+
 #### Who organised the event
 NHS England and Improvement 
 
