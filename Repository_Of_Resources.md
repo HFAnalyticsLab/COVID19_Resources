@@ -4,6 +4,7 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
+* [Deprivation data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#deprivation-data)
 * [Accessing and processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-and-processing-data)
 * [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
 * [Mapping Tools](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#mapping-tools)
@@ -82,6 +83,18 @@ Definition and associated code to identify frailty in Admitted Patient Care reco
 #### Who developed the resource
 [Fiona Grimm](https://github.com/fiona-grimm) (The Health Foundation), with collaborators at Imperial College London
 
+### [OpenSAFELY codelists](https://github.com/ebmdatalab/opensafely-risk-factors-research/tree/master/codelists)
+#### What the resource does
+Hosts codelists used in the OpenSAFELY project, including from the paper on factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.
+#### Who developed the resource
+[OpenSAFELY collaboration](https://opensafely.org/) 
+
+## Deprivation data
+### [Scottish Index of Multiple Deprivation 2020](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/)
+#### What the resource does
+Collection of documents relating to the Scottish Index of Multiple Deprivation - a tool for identifying areas with relatively high levels of deprivation. Includes each of the 7 domains, postcode lookups and mapping.
+#### Who developed the resource
+Scottish Government
 
 ## Accessing and processing data
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
