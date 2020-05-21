@@ -20,13 +20,16 @@ Deatils of the analytical huddles can be found on the [FutureNHS platform](https
 * [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
 * [Health Inequalities: Thu 30th April 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectID=20032240)
 * [Command Centres: Thurs 7th May 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectId=20158448)
+* [Public Perceptions: Fri 15th May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20307024)
 
 * [Mini-huddle from Ordnance Survey Mapping: 21 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19745040)
 * [Mini-huddle from Herts & West Essex: combining epi and demand modelling: 29 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20001648)
 * [Mini-huddle on using the PHE SHAPE tool: Wed 6th May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20154160)
+* [Mini-huddle on understanding the movement of people from CACI: Tues 2oth May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20370800)
+* [Mini-huddle on working openly during COVID from the Health Foundation: Wed 21st May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20378704)
 
 ##### Upcoming huddles: registration page:
-* [Public Perceptions: Fri 15th May 2020 - 11:00 BST](https://www.eventbrite.co.uk/e/public-perception-and-behaviour-during-covid-19-tickets-104518333148)
+* [Data Driven Care Models during COVID-19: Fri 22nd May 2020 - 14:00 BST](https://www.eventbrite.co.uk/e/data-driven-covid-19-care-models-tickets-105522522706)
 
 #### Who organised the event
 NHS England and Improvement 
@@ -47,7 +50,7 @@ Bristol Health Partners
 ### [#OpenDataSavesLives COVID-19](https://odileeds.org/projects/open-data-saves-lives/covid19/)
 #### Format and topic of the event 
 An weekly/semi-regular session to work out how we can get a local perspective and impact of the COVID-19 / coronavirus outbreak. The meeting serves to connect with new people, share work, get project updates, and more. 
-##### Next upcoming session: [Thurs 30 April, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
+##### Sign up to upcoming sessions: [Thursdays, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
 ##### [Previous session recordings available](https://odileeds.org/projects/open-data-saves-lives/covid19/)
 #### Who organised the event
 ODI Leeds
