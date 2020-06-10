@@ -13,24 +13,28 @@ Below are a collection of analytical communities and events which may be helpful
 To discuss COVID-19 data and analytics activity at a national and local level. These huddles will provide an opportunity to share, discuss best practice, build networks and ask questions.
 Deatils of the analytical huddles can be found on the [FutureNHS platform](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=18976912), log in required. 
 
-##### Previous huddles: recording and resources:
-* [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
-* [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
-* [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
-* [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
-* [Health Inequalities: Thu 30th April 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectID=20032240)
-* [Command Centres: Thurs 7th May 2020 - recording and resources](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectId=20158448)
-* [Public Perceptions: Fri 15th May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20307024)
-* [Data Driven Care Models during COVID-19 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20418704)
+##### Previous huddles: topics covered
+- Modelling (3 April 2020)
+- Identifying people at risk (9 April)
+- COVID-19 dashboards (17th April)
+- Whole systems modelling (23 April)
+- Health inequalities (30 April)
+- Command centres (7 May)
+- Public perceptions (15 May)
+- Data driven care models during COVID-19 (22 May)
+- Modelling the recovery (29 May)
+- COVID and care homes (5 June)
 
-* [Mini-huddle from Ordnance Survey Mapping: 21 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19745040)
-* [Mini-huddle from Herts & West Essex: combining epi and demand modelling: 29 April - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20001648)
-* [Mini-huddle on using the PHE SHAPE tool: Wed 6th May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20154160)
-* [Mini-huddle on understanding the movement of people from CACI: Tues 2oth May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20370800)
-* [Mini-huddle on working openly during COVID from the Health Foundation: Wed 21st May 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=20378704)
-
-##### Upcoming huddles: registration page:
-* [Modelling the recovery: Fri 29th May 2020 - 10:00 BST](https://www.eventbrite.co.uk/e/modelling-the-recovery-tickets-106340846334)
+##### Previous [mini-huddles](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19744528): topics covered
+- Ordnance Survey Mapping (21 April)
+- Combining epi and demand modelling (29 April)
+- Using the PHE SHAPE tool (6 May)
+- Understanding the movement of people from CACI (20 May)
+- Working openly during COVID-19 (21 May)
+- Modelling vulnerability (26 May)
+- Analysing and forecasting (3 June)
+- Foundations of SIR / SEIR modelling (10 June)
+- Machine learning to understand patients COVID-19 risks (10 June)
 
 #### Who organised the event
 NHS England and Improvement 
