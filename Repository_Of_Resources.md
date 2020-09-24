@@ -169,6 +169,12 @@ Shiny Dashboard showing graphical numbers (linear and logarithmic) of confirmed 
 #### Who developed the resource
 [Trafford Data Lab](https://github.com/traffordDataLab)
 
+### [Daily surveillance reports and other outputs](https://github.com/traffordDataLab/covid-19_surveillance_reports) 
+#### What the resource does
+R scripts for retrieving data from PHE’s surveillance systems used by Trafford and Greater Manchester but much of the code can be adapted to other local authorities.
+#### Who developed the resource
+[Trafford Data Lab](https://github.com/traffordDataLab)
+
 ### [Weekly Deaths: England and Wales](https://ukpublichealthdata.shinyapps.io/weekly_deaths/) 
 #### What the resource does
 Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) plotted with forecasting from the Prophet R package.
