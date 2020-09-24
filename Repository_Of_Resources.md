@@ -4,10 +4,16 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
-* [Processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#processing-data)
+* [Accessing and processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-and-processing-data)
 * [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
 
 ## Modelling projections
+
+### [Imperial infection model: CovidSim](https://github.com/mrc-ide/covid-sim) 
+#### What the resource does
+GitHub repository of the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London. The lead developers are Neil Ferguson, Gemma Nedjati-Giliani and Daniel Laydon.
+#### Who developed the resource
+MRC Centre for Global Infectious Disease Analysis; Imperial College, London.
 
 ### [Bed projections: covid19-reqd-beds-projection](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection) 
 #### What the resource does
@@ -36,12 +42,24 @@ You can choose to model critical or non-critical care beds.
 #### Who developed the resource
 [LSHTM CCMID](https://cmmid.github.io/)
 
+### [J-IDEA hospital planner](http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-15-hospital-capacity/)
+#### What the resource does
+Hospital planning tool to calculate how much capacity in terms of beds, staff and ventilators is obtained by implementing healthcare provision interventions affecting the management of patient care in hospitals. The planner estimates the additional number of beds, medical staff and crucial medical equipment obtained under various healthcare interventions using flexible inputs on assumptions of existing capacities, the number of hospitalisations, beds-to-staff ratios, and staff absences due to COVID-19. 
+#### Who developed the resource
+[Imperial College COVID-19 Response Team]
+
 ## Identifying vulnerable groups
 ### [Shielded patient list - NHS Digital methodology](https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology)
 #### What the resource does
 Documents describing the methodology that has been used to identify patients who meet the high risk criteria for contracting coronavirus (COVID-19), who should be shielded for at least 12 weeks.
 #### Who developed the resource
 NHS Digital
+
+### [British Red Cross COVID-19 vulnerability index for the UK](https://github.com/britishredcrosssociety/covid-19-vulnerability)
+#### What the resource does
+This index combines multiple sources of (mostly) open data to identify vulnerable areas and groups within Local Authorities and neighbourhoods (wards and Middle Layer Super Output Areas). The Index currently maps clinical vulnerability (underlying health conditions), health/wellbeing vulnerability (including mental health and loneliness), economic vulnerability, and social vulnerability (including barriers to housing and services, poor living environment).
+#### Who developed the resource
+Matt Thomas and Ellen Gordon at the British Red Cross.
 
 ### [COVID-19 phenomics](https://covid19-phenomics.org/#section-algorithms)
 #### What the resource does
@@ -59,11 +77,10 @@ Alessandro Gasparini
 #### What the resource does
 Definition and associated code to identify frailty in Admitted Patient Care records in HES. This definition of frailty was used to support Imperial College London in estimating hospital capacity for admissions for COVID pneumonia. 
 #### Who developed the resource
-[Fiona Grimm](https://github.com/fiona-grimm) (Health Foundation), with collaborators at Imperial College London
+[Fiona Grimm](https://github.com/fiona-grimm) (The Health Foundation), with collaborators at Imperial College London
 
 
-## Processing data
-
+## Accessing and processing data
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 #### What the resource does
 This github repository collates the historical UK government data on numbers of tests, confirmed cases, and deaths for COVID-19, and provides it in an easily consumable format (CSV), in both wide and tidy data forms. Includes daily counts of confirmed cases for (upper tier) local authorities in England, health boards in Scotland and Wales, and local government district for Northern Ireland.
@@ -76,11 +93,33 @@ Numbers of weekly deaths (provisional) by age groups, region and usual residence
 #### Who developed the resource
 Office of National Statistics
 
-### [Weekly provisional Deaths](https://github.com/Lextuga007/NHSRdatasets/blob/ONSMortality/Working%20files/ONSMortality.csv) 
+### [Weekly provisional Deaths](https://github.com/Lextuga007/NHSRdatasets/tree/ONSMortality/Working%20files) 
 #### What the resource does
-Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/nhs-r-community/NHSRdatasets/blob/master/data/ONSMortality.RData).
+Weekly provisionally registered deaths for England and Wales from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) has been reordered for analysis and inclusion to the [NHSRdatasets R package (available on CRAN)](https://github.com/nhs-r-community/NHSRdatasets). Available as an [.RData file](https://github.com/Lextuga007/NHSRdatasets/blob/ONSMortality/Working%20files/ons_mortality.rda).
 #### Who developed the resource
 [Zoë Turner](https://github.com/Lextuga007)
+
+### [ODI support for sharing data](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch?mc_cid=777c5ce2dd&mc_eid=c43dc921e5) 
+#### What the resource does
+The Open Data Institute (ODI) is running a programme of free support to people and organisations who have data, models or software they think could help the world to navigate the pandemic. This might be from public authorities, researchers, developers, companies or charities. 
+#### Who developed the resource
+[ODI](https://twitter.com/ODIHQ)
+
+### [NHS Pathways and 111 online data](https://github.com/HFAnalyticsLab/COVID19_NHS111) 
+#### What the resource does
+Scripts for a descriptive analysis of trends in NHS 111 activity related to COVID-19, creating daily counts for England, in total and by gender and age band.
+#### Who developed the resource
+[Emma Vestesson](https://twitter.com/gummifot) (The Health Foundation)
+
+### [COVID visualisations](https://github.com/VictimOfMaths/COVID-19) 
+#### What the resource does
+Scripts and visualisations using UK COVID data to look at:
+1) Timelines of cases at a Local Authority level in England
+2) All-cause mortality trends across the UK, by age, sex and region
+3) Health deprivation and potential COVID-19 mortality risk at LSOA level across England
+4) COVID cases by deprivation level, using Local Authority daata across England. 
+#### Who developed the resource
+[Colin Angus](https://twitter.com/@VictimOfMaths)
 
 ## Dashboards
 
@@ -89,6 +128,12 @@ Weekly provisionally registered deaths for England and Wales from [ONS](https://
 Dashboard based on COVID-19 Daily Sitrep data collection, from acute, mental health and community providers. Must request access, permissions granted by NHSI. 
 #### Who developed the resource
 [NHS](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=18941424)
+
+### [NHS pathways and 111 online dashboard](https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online) 
+#### What the resource does
+NHS Digital dashboard on potential COVID symptoms reported via NHS Pathways and 111 online.
+#### Who developed the resource
+NHS Digital
 
 ### [Daily confirmed coronavirus cases and deaths in the UK published by Public Health England](https://trafforddatalab.shinyapps.io/covid-19/#section-deaths) 
 #### What the resource does
@@ -114,3 +159,4 @@ Ian Bowns
 Mapping tool for Strategic Health Asset Planning and Evaluation now includes COVID-19 site status on the map, including Hot and Cold status for GP practices. Registration is required by formal registration and licence agreement. It is free for NHS professionals and Local Authority professionals with a role in Public Health or Social Care. 
 #### Who developed the resource
 Public Health England
+
