@@ -181,6 +181,12 @@ Dashboard showing data on COVID cases by local authority/health board across the
 #### Who developed the resource
 [ODI Leeds](https://odileeds.org/)
 
+### [Public Health Wales recovery profiles](https://publichealthwales.shinyapps.io/COVID19_Recovery_Profile_PHWO/) 
+#### What the resource does
+Profile of Wales on several indicators, including Mortality, health Service Utilisation, Wellbeing, Wider determinants of health, and Screening programme coverage. Report can be downloaded to Word. 
+#### Who developed the resource
+[Public Health Wales Observatory](http://www.publichealthwalesobservatory.wales.nhs.uk/home)
+
 
 ## Mapping Tools
 ### [SHAPE Strategic Health Asset Planning and Evaluation](https://shapeatlas.net/) 
