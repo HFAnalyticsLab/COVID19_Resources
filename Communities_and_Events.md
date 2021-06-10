@@ -13,13 +13,29 @@ Below are a collection of analytical communities and events which may be helpful
 To discuss COVID-19 data and analytics activity at a national and local level. These huddles will provide an opportunity to share, discuss best practice, build networks and ask questions.
 Deatils of the analytical huddles can be found on the [FutureNHS platform](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=18976912), log in required. 
 
-##### Previous huddles: recording and resources:
-* [Modelling Huddle: 3 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19407216)
-* [Identifying People at Risk: 9 April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectId=19532528)
-* [COVID-19 dashboards: Fri 17th April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19638768)
-* [Whole systems modelling: Thu 23rd April 2020 - recording and resources](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19851344)
-##### Upcoming huddles: registration page:
-* [Health Inequalities: Thu 30th April 2020 - 14:00-16:00 BST](https://www.eventbrite.co.uk/e/tackling-health-inequalities-during-covid-19-tickets-103501862858)
+##### Previous huddles: topics covered
+- Modelling (3 April 2020)
+- Identifying people at risk (9 April)
+- COVID-19 dashboards (17th April)
+- Whole systems modelling (23 April)
+- Health inequalities (30 April)
+- Command centres (7 May)
+- Public perceptions (15 May)
+- Data driven care models during COVID-19 (22 May)
+- Modelling the recovery (29 May)
+- COVID and care homes (5 June)
+
+##### Previous [mini-huddles](https://future.nhs.uk/DataAnalyticsCovid19/view?objectID=19744528): topics covered
+- Ordnance Survey Mapping (21 April)
+- Combining epi and demand modelling (29 April)
+- Using the PHE SHAPE tool (6 May)
+- Understanding the movement of people from CACI (20 May)
+- Working openly during COVID-19 (21 May)
+- Modelling vulnerability (26 May)
+- Analysing and forecasting (3 June)
+- Foundations of SIR / SEIR modelling (10 June)
+- Machine learning to understand patients COVID-19 risks (10 June)
+
 #### Who organised the event
 NHS England and Improvement 
 
@@ -39,7 +55,7 @@ Bristol Health Partners
 ### [#OpenDataSavesLives COVID-19](https://odileeds.org/projects/open-data-saves-lives/covid19/)
 #### Format and topic of the event 
 An weekly/semi-regular session to work out how we can get a local perspective and impact of the COVID-19 / coronavirus outbreak. The meeting serves to connect with new people, share work, get project updates, and more. 
-##### Next upcoming session: [Thurs 30 April, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
+##### Sign up to upcoming sessions: [Thursdays, 11:00-12:00 BST](https://www.eventbrite.co.uk/e/opendatasaveslives-covid-19-meeting-tickets-101218453118)
 ##### [Previous session recordings available](https://odileeds.org/projects/open-data-saves-lives/covid19/)
 #### Who organised the event
 ODI Leeds

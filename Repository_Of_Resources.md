@@ -4,8 +4,12 @@ This is a repository collecting together links to practical resources for analys
 ## Contents
 * [Modelling projections](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#modelling-projections)
 * [Identifying vulnerable groups](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#identifying-vulnerable-groups)
+* [Deprivation data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#deprivation-data)
 * [Accessing and processing data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#accessing-and-processing-data)
 * [Dashboards](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#dashboards)
+* [Mapping Tools](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#mapping-tools)
+* [Mobility Data](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md#mobility-data)
+
 
 ## Modelling projections
 
@@ -46,7 +50,13 @@ You can choose to model critical or non-critical care beds.
 #### What the resource does
 Hospital planning tool to calculate how much capacity in terms of beds, staff and ventilators is obtained by implementing healthcare provision interventions affecting the management of patient care in hospitals. The planner estimates the additional number of beds, medical staff and crucial medical equipment obtained under various healthcare interventions using flexible inputs on assumptions of existing capacities, the number of hospitalisations, beds-to-staff ratios, and staff absences due to COVID-19. 
 #### Who developed the resource
-[Imperial College COVID-19 Response Team]
+Imperial College COVID-19 Response Team
+
+### [Local spread and containment modelling](https://kblyuss.shinyapps.io/icst/)
+#### What the resource does
+Interactive shiny app for modelling spread and containment of COVID-19, based on a variety of specified paramenters relating to clinical and lockdown policy factors. 
+#### Who developed the resource
+Dr Konstantin Blyuss and Dr Yuliya Kyrychko
 
 ## Identifying vulnerable groups
 ### [Shielded patient list - NHS Digital methodology](https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology)
@@ -79,6 +89,18 @@ Definition and associated code to identify frailty in Admitted Patient Care reco
 #### Who developed the resource
 [Fiona Grimm](https://github.com/fiona-grimm) (The Health Foundation), with collaborators at Imperial College London
 
+### [OpenSAFELY codelists](https://github.com/ebmdatalab/opensafely-risk-factors-research/tree/master/codelists)
+#### What the resource does
+Hosts codelists used in the OpenSAFELY project, including from the paper on factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.
+#### Who developed the resource
+[OpenSAFELY collaboration](https://opensafely.org/) 
+
+## Deprivation data
+### [Scottish Index of Multiple Deprivation 2020](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/)
+#### What the resource does
+Collection of documents relating to the Scottish Index of Multiple Deprivation - a tool for identifying areas with relatively high levels of deprivation. Includes each of the 7 domains, postcode lookups and mapping.
+#### Who developed the resource
+Scottish Government
 
 ## Accessing and processing data
 ### [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
@@ -99,12 +121,6 @@ Weekly provisionally registered deaths for England and Wales from [ONS](https://
 #### Who developed the resource
 [Zoë Turner](https://github.com/Lextuga007)
 
-### [ODI support for sharing data](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch?mc_cid=777c5ce2dd&mc_eid=c43dc921e5) 
-#### What the resource does
-The Open Data Institute (ODI) is running a programme of free support to people and organisations who have data, models or software they think could help the world to navigate the pandemic. This might be from public authorities, researchers, developers, companies or charities. 
-#### Who developed the resource
-[ODI](https://twitter.com/ODIHQ)
-
 ### [NHS Pathways and 111 online data](https://github.com/HFAnalyticsLab/COVID19_NHS111) 
 #### What the resource does
 Scripts for a descriptive analysis of trends in NHS 111 activity related to COVID-19, creating daily counts for England, in total and by gender and age band.
@@ -120,6 +136,18 @@ Scripts and visualisations using UK COVID data to look at:
 4) COVID cases by deprivation level, using Local Authority daata across England. 
 #### Who developed the resource
 [Colin Angus](https://twitter.com/@VictimOfMaths)
+
+### [ODI support for sharing data](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch?mc_cid=777c5ce2dd&mc_eid=c43dc921e5) 
+#### What the resource does
+The Open Data Institute (ODI) is running a programme of free support to people and organisations who have data, models or software they think could help the world to navigate the pandemic. This might be from public authorities, researchers, developers, companies or charities. 
+#### Who developed the resource
+[ODI](https://twitter.com/ODIHQ)
+
+### [ODI Leeds open data tips](https://github.com/odileeds/open-data-tips) 
+#### What the resource does
+Some tips for creating open data in a way that is helpful. The aim is to make your open data machine-readable.  
+#### Who developed the resource
+[ODI Leeds](https://odileeds.org/projects/)
 
 ## Dashboards
 
@@ -153,6 +181,13 @@ Weekly deaths from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/bir
 #### Who developed the resource
 Ian Bowns
 
+### [ODI Leeds Local authority dashboard](https://odileeds.github.io/covid-19/LocalAuthorities/) 
+#### What the resource does
+Dashboard showing data on COVID cases by local authority/health board across the UK. Uses open data  via Tom White's [github repo](https://github.com/tomwhite/covid-19-uk-data)
+#### Who developed the resource
+[ODI Leeds](https://odileeds.org/)
+
+
 ## Mapping Tools
 ### [SHAPE Strategic Health Asset Planning and Evaluation](https://shapeatlas.net/) 
 #### What the resource does
@@ -160,3 +195,58 @@ Mapping tool for Strategic Health Asset Planning and Evaluation now includes COV
 #### Who developed the resource
 Public Health England
 
+### [ONS open geography portal](http://geoportal.statistics.gov.uk/) 
+#### What the resource does
+Free and open access to the definitive source of geographic products, web applications, story maps, services and APIs. Includes lookups and shape files for many geographies of interest, including CCGs, UPRNs and NHS postcodes amongst many others. 
+#### Who developed the resource
+ONS
+
+### [Ordnance Survey Data Hub](https://osdatahub.os.uk/)
+#### What the resource does
+APIs and OpenData downloads for mapping and geospatial data applications.
+#### Who developed the resource
+Ordnance Survey
+
+### [Geographies overview](https://odileeds.org/data/geographies) 
+#### What the resource does
+Descriptions and guidance on options when looking at geographies at regional-scale, city-scale, sub-city-scale that are used in open data projects from the ODI Leeds. 
+#### Who developed the resource
+ODI Leeds
+
+### [geo-lookups](https://github.com/drkane/geo-lookups/)
+#### What the resource does
+A GitHub repository with a collection of data resources for handling small-area UK geography.
+#### Who developed the resource
+[David Kane](https://twitter.com/kanedr)
+
+### [OS GeoDataViz Toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
+#### What the resource does
+The GeoDataViz Toolkit is a set of resources that will help you communicate your data effectively through the design of compelling visuals. In this repository there are resources, assets and other useful links.
+#### Who developed the resource
+OS GeoDataViz team
+
+### [Geolytix care home search](https://geolytix.dev/carehomes/view/search)
+#### What the resource does
+Resource for searching for care homes within a location via browser and/or download to a csv.
+#### Who developed the resource
+[Geolytix](https://geolytix.co.uk/)
+
+
+## Mobility Data
+### [Apple mobility trends](https://www.apple.com/covid19/mobility) 
+#### What the resource does
+Downloadable dataset of daily changes in requests for directions in Apple Maps by transport type for all available countries/regions, sub-regions and cities. 
+#### Who developed the resource
+Apple
+
+### [Google mobility reports](https://www.google.com/covid19/mobility/)
+#### What the resource does
+The community mobility reports use aggregated, anonymized data to chart movement trends over time by geography, across different high-level categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. They are based on Location History data from Google accounts. 
+#### Who developed the resource
+Google
+
+### [Gov.uk tranport methodology note](https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note)
+#### What the resource does
+Information on the data sources and methodology used to generate headline measures for the Department for Transport daily updates to the Cabinet Office. These include road traffic in Great Britain, rail passenger journeys in Great Britain, rail station concourse footfall at a set of monitored stations, Transport for London’s (TfL) tube and bus routes and bus travel in Great Britain (excluding London). 
+#### Who developed the resource
+Gov.uk / DfT
