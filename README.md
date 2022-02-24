@@ -1,11 +1,14 @@
 ## COVID-19 resources for analysts 
+
+#### Project Status: archived - no longer maintained
+
+
 This repository is a collection of links to practical resources, including tools and code for analysts working to support health and care during the COVID-19 pandemic. 
 
 The repository is organised into:
 * [Resources](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Repository_Of_Resources.md)
 * [Communities and online events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md) 
 
-#### Project Status: in progress
 
 ## Documentation
 * [Scope of the repository](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/README.md#scope-of-the-repository)
